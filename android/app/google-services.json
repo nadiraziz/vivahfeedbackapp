@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678800412676",
+    "project_id": "vivah-653ac",
+    "storage_bucket": "vivah-653ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678800412676:android:144287466425151e866551",
+        "android_client_info": {
+          "package_name": "com.example.vivah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678800412676-qra2vsssu6fdfm83qvckujsmdcoor0su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5mBzyQHKOjNK-_BkUSu7fleO4aq9AEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678800412676-qra2vsssu6fdfm83qvckujsmdcoor0su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
